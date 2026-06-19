@@ -1,6 +1,6 @@
 # Dev Collaboration Hub
 
-🚀 Open-source developer community focused on collaboration, learning, and real-world software projects.
+🚀 Building real-world open-source software projects while helping developers learn, collaborate, and gain practical experience.
 
 ## What We Do
 
